@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/road_to_fullstack/React+Course/monster_inc/static/css/main.cdd66344.chunk.css",
-    "main.js": "/road_to_fullstack/React+Course/monster_inc/static/js/main.cf808600.chunk.js",
-    "main.js.map": "/road_to_fullstack/React+Course/monster_inc/static/js/main.cf808600.chunk.js.map",
-    "runtime-main.js": "/road_to_fullstack/React+Course/monster_inc/static/js/runtime-main.b5715c1e.js",
-    "runtime-main.js.map": "/road_to_fullstack/React+Course/monster_inc/static/js/runtime-main.b5715c1e.js.map",
-    "static/js/2.55df0e8d.chunk.js": "/road_to_fullstack/React+Course/monster_inc/static/js/2.55df0e8d.chunk.js",
-    "static/js/2.55df0e8d.chunk.js.map": "/road_to_fullstack/React+Course/monster_inc/static/js/2.55df0e8d.chunk.js.map",
-    "index.html": "/road_to_fullstack/React+Course/monster_inc/index.html",
-    "precache-manifest.f63c93aa5dbc0c4e0287c613d18b9b7c.js": "/road_to_fullstack/React+Course/monster_inc/precache-manifest.f63c93aa5dbc0c4e0287c613d18b9b7c.js",
-    "service-worker.js": "/road_to_fullstack/React+Course/monster_inc/service-worker.js",
-    "static/css/main.cdd66344.chunk.css.map": "/road_to_fullstack/React+Course/monster_inc/static/css/main.cdd66344.chunk.css.map",
-    "static/js/2.55df0e8d.chunk.js.LICENSE": "/road_to_fullstack/React+Course/monster_inc/static/js/2.55df0e8d.chunk.js.LICENSE"
+    "main.css": "/monster.inc/static/css/main.cdd66344.chunk.css",
+    "main.js": "/monster.inc/static/js/main.3f9ddcc0.chunk.js",
+    "main.js.map": "/monster.inc/static/js/main.3f9ddcc0.chunk.js.map",
+    "runtime-main.js": "/monster.inc/static/js/runtime-main.528391d3.js",
+    "runtime-main.js.map": "/monster.inc/static/js/runtime-main.528391d3.js.map",
+    "static/js/2.55df0e8d.chunk.js": "/monster.inc/static/js/2.55df0e8d.chunk.js",
+    "static/js/2.55df0e8d.chunk.js.map": "/monster.inc/static/js/2.55df0e8d.chunk.js.map",
+    "index.html": "/monster.inc/index.html",
+    "precache-manifest.f3613b698c3d6d15ea8dcbde02683e84.js": "/monster.inc/precache-manifest.f3613b698c3d6d15ea8dcbde02683e84.js",
+    "service-worker.js": "/monster.inc/service-worker.js",
+    "static/css/main.cdd66344.chunk.css.map": "/monster.inc/static/css/main.cdd66344.chunk.css.map",
+    "static/js/2.55df0e8d.chunk.js.LICENSE": "/monster.inc/static/js/2.55df0e8d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5715c1e.js",
+    "static/js/runtime-main.528391d3.js",
     "static/js/2.55df0e8d.chunk.js",
     "static/css/main.cdd66344.chunk.css",
-    "static/js/main.cf808600.chunk.js"
+    "static/js/main.3f9ddcc0.chunk.js"
   ]
 }
